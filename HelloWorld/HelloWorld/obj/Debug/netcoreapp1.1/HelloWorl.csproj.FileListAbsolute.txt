@@ -1,0 +1,9 @@
+c:\users\brad\documents\visual studio 2017\Projects\HelloWorl\HelloWorl\bin\Debug\netcoreapp1.1\HelloWorl.deps.json
+c:\users\brad\documents\visual studio 2017\Projects\HelloWorl\HelloWorl\bin\Debug\netcoreapp1.1\HelloWorl.runtimeconfig.json
+c:\users\brad\documents\visual studio 2017\Projects\HelloWorl\HelloWorl\bin\Debug\netcoreapp1.1\HelloWorl.runtimeconfig.dev.json
+c:\users\brad\documents\visual studio 2017\Projects\HelloWorl\HelloWorl\bin\Debug\netcoreapp1.1\HelloWorl.dll
+c:\users\brad\documents\visual studio 2017\Projects\HelloWorl\HelloWorl\bin\Debug\netcoreapp1.1\HelloWorl.pdb
+c:\users\brad\documents\visual studio 2017\Projects\HelloWorl\HelloWorl\obj\Debug\netcoreapp1.1\HelloWorl.csprojResolveAssemblyReference.cache
+c:\users\brad\documents\visual studio 2017\Projects\HelloWorl\HelloWorl\obj\Debug\netcoreapp1.1\HelloWorl.AssemblyInfo.cs
+c:\users\brad\documents\visual studio 2017\Projects\HelloWorl\HelloWorl\obj\Debug\netcoreapp1.1\HelloWorl.dll
+c:\users\brad\documents\visual studio 2017\Projects\HelloWorl\HelloWorl\obj\Debug\netcoreapp1.1\HelloWorl.pdb

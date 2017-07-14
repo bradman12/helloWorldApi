@@ -1,0 +1,12 @@
+c:\users\brad\documents\visual studio 2017\Projects\HelloWorl\UnitTestProject1\bin\Debug\netcoreapp1.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+c:\users\brad\documents\visual studio 2017\Projects\HelloWorl\UnitTestProject1\bin\Debug\netcoreapp1.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+c:\users\brad\documents\visual studio 2017\Projects\HelloWorl\UnitTestProject1\bin\Debug\netcoreapp1.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+c:\users\brad\documents\visual studio 2017\Projects\HelloWorl\UnitTestProject1\bin\Debug\netcoreapp1.1\UnitTestProject1.deps.json
+c:\users\brad\documents\visual studio 2017\Projects\HelloWorl\UnitTestProject1\bin\Debug\netcoreapp1.1\UnitTestProject1.runtimeconfig.json
+c:\users\brad\documents\visual studio 2017\Projects\HelloWorl\UnitTestProject1\bin\Debug\netcoreapp1.1\UnitTestProject1.runtimeconfig.dev.json
+c:\users\brad\documents\visual studio 2017\Projects\HelloWorl\UnitTestProject1\bin\Debug\netcoreapp1.1\UnitTestProject1.dll
+c:\users\brad\documents\visual studio 2017\Projects\HelloWorl\UnitTestProject1\bin\Debug\netcoreapp1.1\UnitTestProject1.pdb
+c:\users\brad\documents\visual studio 2017\Projects\HelloWorl\UnitTestProject1\obj\Debug\netcoreapp1.1\UnitTestProject1.csprojResolveAssemblyReference.cache
+c:\users\brad\documents\visual studio 2017\Projects\HelloWorl\UnitTestProject1\obj\Debug\netcoreapp1.1\UnitTestProject1.AssemblyInfo.cs
+c:\users\brad\documents\visual studio 2017\Projects\HelloWorl\UnitTestProject1\obj\Debug\netcoreapp1.1\UnitTestProject1.dll
+c:\users\brad\documents\visual studio 2017\Projects\HelloWorl\UnitTestProject1\obj\Debug\netcoreapp1.1\UnitTestProject1.pdb
